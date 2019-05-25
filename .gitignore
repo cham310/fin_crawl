@@ -1,0 +1,5 @@
+# minny
+
+*.pkl
+*.csv
+/dataset
